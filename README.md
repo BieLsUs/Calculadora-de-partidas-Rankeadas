@@ -4,7 +4,6 @@
 <h2>Como fazer...</h2>
 <p>
 //Se vitórias for menor do que 10 = Ferro
-  
 //Se vitórias for entre 11 e 20 = Bronze
 
 //Se vitórias for entre 21 e 50 = Prata
