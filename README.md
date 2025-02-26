@@ -1,4 +1,4 @@
-#Calculador de partidas rankeadas
+# Calculador de partidas rankeadas
 <p>Fazer um programa com JavaScript que calcule o nível de classificação atrevés do cálculo de vitórias e derrotas.</p>
 
 <h2>Como fazer...</h2>
