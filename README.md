@@ -7,7 +7,7 @@
   
 ->Se vitórias for entre 11 e 20 = Bronze
 
-/Se vitórias for entre 21 e 50 = Prata
+->Se vitórias for entre 21 e 50 = Prata
 
 ->Se vitórias for entre 51 e 80 = Ouro
 
