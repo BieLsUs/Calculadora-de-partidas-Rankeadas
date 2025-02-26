@@ -18,7 +18,8 @@
 //Se vitórias for maior ou igual a 101 = Imortal
 
 
-// SAÍDA NO CONSOLE
+
+// SAÍDA NO CONSOLE:
 
 //Ao final deve se exibir uma mensagem:
 
